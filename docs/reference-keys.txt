@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fig:nice-fig
 tab:nice-tab
 prerequisites
@@ -9,3 +10,16 @@ applications
 example-one
 example-two
 final-words
+=======
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+literature
+methods
+math-example
+applications
+example-one
+example-two
+final-words
+>>>>>>> 42e1cd14b315293c60a7063ed314c423dce40b46
